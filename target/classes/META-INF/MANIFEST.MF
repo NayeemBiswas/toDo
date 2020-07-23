@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Todo Boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Nayeem
+Implementation-Vendor-Id: com.nay
+Build-Jdk: 1.8.0_60
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/todoboot
+Created-By: Maven Integration for Eclipse
+Main-Class: com.nay.Application
+
