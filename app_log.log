@@ -1,0 +1,188 @@
+[INFO ] 2020-02-27 12:59:07.184 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 12:59:07.193 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 12:59:13.546 [restartedMain] Application - Started Application in 9.086 seconds (JVM running for 10.427)
+[INFO ] 2020-02-27 12:59:13.549 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 12:59:27.266 [http-nio-8080-exec-1] UserController - root
+[INFO ] 2020-02-27 12:59:28.256 [http-nio-8080-exec-1] UserController - login
+[WARN ] 2020-02-27 12:59:32.906 [http-nio-8080-exec-6] AuthUserDetailsService - user 'mahfuz' on null!
+[INFO ] 2020-02-27 12:59:32.914 [http-nio-8080-exec-4] UserController - login
+[INFO ] 2020-02-27 12:59:33.314 [http-nio-8080-exec-2] UserController - login
+[INFO ] 2020-02-27 12:59:35.121 [http-nio-8080-exec-7] UserController - register
+[INFO ] 2020-02-27 12:59:35.609 [http-nio-8080-exec-9] UserController - login
+[INFO ] 2020-02-27 12:59:39.631 [http-nio-8080-exec-3] UserController - login
+[INFO ] 2020-02-27 12:59:39.977 [http-nio-8080-exec-8] UserController - login
+[INFO ] 2020-02-27 12:59:43.704 [http-nio-8080-exec-1] UserController - register
+[INFO ] 2020-02-27 12:59:44.136 [http-nio-8080-exec-10] UserController - login
+[INFO ] 2020-02-27 13:00:00.795 [http-nio-8080-exec-6] UserController - /user/register
+[INFO ] 2020-02-27 13:00:00.964 [http-nio-8080-exec-5] UserController - register
+[INFO ] 2020-02-27 13:00:01.415 [http-nio-8080-exec-9] UserController - login
+[INFO ] 2020-02-27 13:00:06.895 [http-nio-8080-exec-2] UserController - login
+[INFO ] 2020-02-27 13:00:07.351 [http-nio-8080-exec-7] UserController - login
+[INFO ] 2020-02-27 13:00:17.574 [http-nio-8080-exec-8] AuthUserDetailsService - tr.com.jowl.model.User@6ff89f41
+[INFO ] 2020-02-27 13:00:17.679 [http-nio-8080-exec-8] MyAuthenticationSuccessHandler - determineTargetUrl: nay
+[INFO ] 2020-02-27 13:00:17.729 [http-nio-8080-exec-4] UserController - home
+[INFO ] 2020-02-27 13:01:31.099 [http-nio-8080-exec-7] TodoController - /task/save
+[INFO ] 2020-02-27 13:01:31.136 [http-nio-8080-exec-9] UserController - home
+[INFO ] 2020-02-27 13:02:17.357 [http-nio-8080-exec-3] TodoController - /task/operation: trash 
+[INFO ] 2020-02-27 13:02:17.401 [http-nio-8080-exec-8] UserController - home
+[INFO ] 2020-02-27 13:02:25.393 [http-nio-8080-exec-4] TodoController - /task/operation: restore 
+[INFO ] 2020-02-27 13:02:25.423 [http-nio-8080-exec-2] UserController - home
+[INFO ] 2020-02-27 13:02:31.942 [http-nio-8080-exec-8] TodoController - /task/operation: trash 
+[INFO ] 2020-02-27 13:02:31.974 [http-nio-8080-exec-7] UserController - home
+[INFO ] 2020-02-27 13:02:36.087 [http-nio-8080-exec-6] TodoController - /task/operation: delete 
+[INFO ] 2020-02-27 13:02:36.129 [http-nio-8080-exec-5] UserController - home
+[INFO ] 2020-02-27 13:02:46.907 [http-nio-8080-exec-4] UserController - login
+[INFO ] 2020-02-27 13:08:24.048 [http-nio-8080-exec-7] AuthUserDetailsService - tr.com.jowl.model.User@6ff89f41
+[INFO ] 2020-02-27 13:08:24.141 [http-nio-8080-exec-7] MyAuthenticationSuccessHandler - determineTargetUrl: nay
+[INFO ] 2020-02-27 13:08:24.160 [http-nio-8080-exec-10] UserController - home
+[INFO ] 2020-02-27 13:09:41.910 [http-nio-8080-exec-9] UserController - home
+[INFO ] 2020-02-27 13:14:02.554 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:14:02.554 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:17:29.324 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:17:29.326 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:17:31.411 [restartedMain] Application - Started Application in 2.245 seconds (JVM running for 1108.297)
+[INFO ] 2020-02-27 13:17:31.411 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:18:01.430 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:18:01.430 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:18:02.915 [restartedMain] Application - Started Application in 1.531 seconds (JVM running for 1139.8)
+[INFO ] 2020-02-27 13:18:02.915 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:19:42.266 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:19:42.267 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:19:43.307 [restartedMain] Application - Started Application in 1.078 seconds (JVM running for 1240.188)
+[INFO ] 2020-02-27 13:19:43.309 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:19:51.503 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:19:51.503 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:19:52.508 [restartedMain] Application - Started Application in 1.04 seconds (JVM running for 1249.389)
+[INFO ] 2020-02-27 13:19:52.510 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:20:07.123 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:20:07.123 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:20:08.697 [restartedMain] Application - Started Application in 1.64 seconds (JVM running for 1265.582)
+[INFO ] 2020-02-27 13:20:08.697 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:20:14.973 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:20:14.973 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:20:15.927 [restartedMain] Application - Started Application in 0.988 seconds (JVM running for 1272.813)
+[INFO ] 2020-02-27 13:20:15.927 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:20:23.173 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:20:23.173 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:20:24.138 [restartedMain] Application - Started Application in 1.019 seconds (JVM running for 1281.019)
+[INFO ] 2020-02-27 13:20:24.140 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:20:40.609 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:20:40.609 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:20:41.574 [restartedMain] Application - Started Application in 1.011 seconds (JVM running for 1298.455)
+[INFO ] 2020-02-27 13:20:41.576 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:20:46.677 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:20:46.678 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:20:47.873 [restartedMain] Application - Started Application in 1.228 seconds (JVM running for 1304.754)
+[INFO ] 2020-02-27 13:20:47.875 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:21:00.124 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:21:00.124 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:21:01.119 [restartedMain] Application - Started Application in 1.031 seconds (JVM running for 1318.001)
+[INFO ] 2020-02-27 13:21:01.121 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:21:11.451 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:21:11.451 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:21:12.721 [restartedMain] Application - Started Application in 1.313 seconds (JVM running for 1329.602)
+[INFO ] 2020-02-27 13:21:12.724 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:21:27.987 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:21:27.987 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:21:28.931 [restartedMain] Application - Started Application in 0.98 seconds (JVM running for 1345.812)
+[INFO ] 2020-02-27 13:21:28.933 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:21:41.132 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:21:41.132 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:21:42.159 [restartedMain] Application - Started Application in 1.073 seconds (JVM running for 1359.041)
+[INFO ] 2020-02-27 13:21:42.163 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:21:51.410 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:21:51.410 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:21:52.390 [restartedMain] Application - Started Application in 1.019 seconds (JVM running for 1369.274)
+[INFO ] 2020-02-27 13:21:52.390 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:22:06.951 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:22:06.951 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:22:08.409 [restartedMain] Application - Started Application in 1.523 seconds (JVM running for 1385.29)
+[INFO ] 2020-02-27 13:22:08.411 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:22:15.643 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:22:15.643 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:22:16.573 [restartedMain] Application - Started Application in 0.967 seconds (JVM running for 1393.455)
+[INFO ] 2020-02-27 13:22:16.576 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:22:23.934 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:22:23.935 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:22:25.309 [restartedMain] Application - Started Application in 1.43 seconds (JVM running for 1402.2)
+[INFO ] 2020-02-27 13:22:25.309 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:22:36.498 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:22:36.499 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:22:37.468 [restartedMain] Application - Started Application in 1.004 seconds (JVM running for 1414.35)
+[INFO ] 2020-02-27 13:22:37.471 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:22:57.022 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:22:57.022 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:22:57.980 [restartedMain] Application - Started Application in 0.99 seconds (JVM running for 1434.863)
+[INFO ] 2020-02-27 13:22:57.980 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:23:07.202 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:23:07.202 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:23:08.236 [restartedMain] Application - Started Application in 1.084 seconds (JVM running for 1445.124)
+[INFO ] 2020-02-27 13:23:08.246 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:23:17.424 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:23:17.425 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:23:18.494 [restartedMain] Application - Started Application in 1.122 seconds (JVM running for 1455.376)
+[INFO ] 2020-02-27 13:23:18.497 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:23:49.233 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:23:49.233 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:23:50.247 [restartedMain] Application - Started Application in 1.068 seconds (JVM running for 1487.129)
+[INFO ] 2020-02-27 13:23:50.249 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:24:10.791 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:24:10.791 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:24:11.974 [restartedMain] Application - Started Application in 1.214 seconds (JVM running for 1508.856)
+[INFO ] 2020-02-27 13:24:11.976 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:24:19.109 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:24:19.109 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:24:20.063 [restartedMain] Application - Started Application in 0.991 seconds (JVM running for 1516.949)
+[INFO ] 2020-02-27 13:24:20.063 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:24:32.563 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:24:32.563 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:24:33.712 [restartedMain] Application - Started Application in 1.183 seconds (JVM running for 1530.595)
+[INFO ] 2020-02-27 13:24:33.716 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:24:42.881 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:24:42.881 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:24:43.976 [restartedMain] Application - Started Application in 1.138 seconds (JVM running for 1540.857)
+[INFO ] 2020-02-27 13:24:43.980 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:24:53.136 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:24:53.137 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:24:54.102 [restartedMain] Application - Started Application in 0.996 seconds (JVM running for 1550.983)
+[INFO ] 2020-02-27 13:24:54.105 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:25:11.462 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:25:11.462 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:25:12.359 [restartedMain] Application - Started Application in 0.929 seconds (JVM running for 1569.241)
+[INFO ] 2020-02-27 13:25:12.361 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:25:22.532 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:25:22.532 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:25:23.601 [restartedMain] Application - Started Application in 1.103 seconds (JVM running for 1580.482)
+[INFO ] 2020-02-27 13:25:23.604 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:26:05.888 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:26:05.888 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:26:06.803 [restartedMain] Application - Started Application in 0.947 seconds (JVM running for 1623.684)
+[INFO ] 2020-02-27 13:26:06.805 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:26:32.567 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:26:32.567 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:26:33.592 [restartedMain] Application - Started Application in 1.056 seconds (JVM running for 1650.473)
+[INFO ] 2020-02-27 13:26:33.595 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:26:50.988 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:26:50.988 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:26:52.018 [restartedMain] Application - Started Application in 1.072 seconds (JVM running for 1668.899)
+[INFO ] 2020-02-27 13:26:52.020 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:27:01.364 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:27:01.364 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:27:02.456 [restartedMain] Application - Started Application in 1.152 seconds (JVM running for 1679.337)
+[INFO ] 2020-02-27 13:27:02.458 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:27:21.949 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:27:21.949 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:27:22.880 [restartedMain] Application - Started Application in 0.961 seconds (JVM running for 1699.761)
+[INFO ] 2020-02-27 13:27:22.883 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:27:38.174 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:27:38.174 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:27:39.136 [restartedMain] Application - Started Application in 0.993 seconds (JVM running for 1716.017)
+[INFO ] 2020-02-27 13:27:39.140 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:27:49.295 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:27:49.295 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:27:50.235 [restartedMain] Application - Started Application in 0.974 seconds (JVM running for 1727.116)
+[INFO ] 2020-02-27 13:27:50.237 [restartedMain] Application - Application Started
+[INFO ] 2020-02-27 13:28:12.423 [restartedMain] Application - Starting Application on DESKTOP-UB58AE4 with PID 13456 (C:\Users\Nayeem\Desktop\test\todoBoot-master\target\classes started by Nayeem in C:\Users\Nayeem\Desktop\test\todoBoot-master)
+[INFO ] 2020-02-27 13:28:12.423 [restartedMain] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-27 13:28:13.749 [restartedMain] Application - Started Application in 1.371 seconds (JVM running for 1750.63)
+[INFO ] 2020-02-27 13:28:13.751 [restartedMain] Application - Application Started
